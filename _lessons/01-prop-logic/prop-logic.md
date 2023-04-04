@@ -10,5 +10,5 @@ title: Lógica proposicional
 
 - [Notas de aula]({{ site.baseurl }}{% link _lessons/01-prop-logic/02-propositional-logic.pdf %}).
 - Do livro texto:
-  - Conectivos lógicos: capítilo 1.1
-  - Aplicações, equivalências: capítilo 1.2
+  - Conectivos lógicos: capítulo 1.1
+  - Aplicações, equivalências: capítulo 1.2
