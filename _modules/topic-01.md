@@ -18,6 +18,6 @@ title: Tópico 01 - Lógica proposicional
 : [**Lógica proposicional**]({{ site.baseurl }}{% link _lessons/01-prop-logic/prop-logic.md %}): aplicações, equivalências, sat
   : [Slides]({{ site.baseurl }}{% link _lessons/01-prop-logic/02-propositional-logic.pdf %})
 
-3, 5 Abr
-: [**Lógica de predicados**]({{ site.baseurl }}{% link _lessons/02-fol-logic/fol-logic.md %})
-  : [Slides]({{ site.baseurl }}{% link _lessons/02-fol-logic/03-fol.pdf %})
+3 Abr
+: [**Lógica proposicional**]({{ site.baseurl }}{% link _lessons/01-prop-logic/prop-logic.md %}): sat
+  : [Slides]({{ site.baseurl }}{% link _lessons/01-prop-logic/02-propositional-logic.pdf %})
