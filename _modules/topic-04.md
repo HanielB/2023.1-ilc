@@ -9,3 +9,7 @@ title: Tópico 04 - Teoria dos conjuntos
 10, 12, 15 Mai
 : [**Funções, sequências**]({{ site.baseurl }}{% link _lessons/04-sets/functions.md %})
   : [Slides]({{ site.baseurl }}{% link _lessons/04-sets/functions.pdf %})
+
+17 Mai
+: [**Cardinalidade de conjuntos**]({{ site.baseurl }}{% link _lessons/04-sets/cardinality.md %})
+  : [Slides]({{ site.baseurl }}{% link _lessons/04-sets/cardinality.pdf %})
