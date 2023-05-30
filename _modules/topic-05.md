@@ -16,6 +16,7 @@ title: Tópico 05 - Indução e Recursão
 
 31 Mai
 : [**Indução estrutural**]({{ site.baseurl }}{% link _lessons/06-recursion/recursion.md %})
+  : [Slides]({{ site.baseurl }}{% link _lessons/06-recursion/recursion.pdf %})
 
 5 Jun
 : Algoritmos recursivos
