@@ -9,3 +9,13 @@ title: Tópico 05 - Indução e Recursão
 24 Mai
 : [**Indução forte e boa ordenação**]({{ site.baseurl }}{% link _lessons/05-induction/induction.md %})
   : [Slides]({{ site.baseurl }}{% link _lessons/05-induction/induction.pdf %})
+
+29 Mai
+: [**Definições recursivas**]({{ site.baseurl }}{% link _lessons/06-recursion/recursion.md %})
+  : [Slides]({{ site.baseurl }}{% link _lessons/06-recursion/recursion.pdf %})
+
+31 Mai
+: [**Indução estrutural**]({{ site.baseurl }}{% link _lessons/06-recursion/recursion.md %})
+
+5 Jun
+: Algoritmos recursivos
