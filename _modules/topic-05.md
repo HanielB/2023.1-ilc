@@ -19,4 +19,8 @@ title: Tópico 05 - Indução e Recursão
   : [Slides]({{ site.baseurl }}{% link _lessons/06-recursion/recursion.pdf %})
 
 5 Jun
-: Algoritmos recursivos
+: [**Algoritmos recursivos**]({{ site.baseurl }}{% link _lessons/06-recursion/recursion.md %})
+  : [Slides]({{ site.baseurl }}{% link _lessons/06-recursion/recursion-algos.pdf %})
+
+7 Jun
+: Sem aula
