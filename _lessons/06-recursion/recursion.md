@@ -23,6 +23,6 @@ title: Recursão
 
 ## Leituras
 
-<!-- - [Notas de aula]({{ site.baseurl }}{% link _lessons/05-induction/induction.pdf %}). -->
+- [Notas de aula]({{ site.baseurl }}{% link _lessons/06-recursion/recursion-algos.pdf %}).
 - Do livro texto:
   - Capítulo 4.4
