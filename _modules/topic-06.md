@@ -23,3 +23,12 @@ title: Tópico 06 - Álgebra Booleana e Circuitos Lógicos
 
 28 Jun
 : Prova 2
+
+03 Jul
+: Prova substitutiva
+
+05, 10 Jun
+: Sem aula
+
+12 Jul
+: Exame especial
